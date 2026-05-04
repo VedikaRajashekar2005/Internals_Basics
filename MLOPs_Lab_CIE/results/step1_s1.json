@@ -1,0 +1,18 @@
+{
+  "experiment_name": "pipelineiq-build-time-min",
+  "models": [
+    {
+      "name": "Ridge",
+      "mae": 2.5305,
+      "rmse": 2.8151
+    },
+    {
+      "name": "RandomForest",
+      "mae": 6.3864,
+      "rmse": 7.5159
+    }
+  ],
+  "best_model": "Ridge",
+  "best_metric_name": "rmse",
+  "best_metric_value": 2.8151
+}

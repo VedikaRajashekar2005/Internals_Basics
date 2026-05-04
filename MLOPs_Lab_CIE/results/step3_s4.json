@@ -1,0 +1,16 @@
+{
+  "health_endpoint": "/heartbeat",
+  "predict_endpoint": "/predict",
+  "port": 8500,
+  "health_response": {
+    "alive": true,
+    "service": "PipelineIQ build_time_min API"
+  },
+  "test_input": {
+    "test_count": 392,
+    "artifact_size_mb": 164,
+    "parallel_jobs": 5,
+    "is_full_rebuild": 1
+  },
+  "prediction": 20.6085
+}

@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "pipelineiq-build-time-min-predictor",
+  "version": 1,
+  "run_id": "4efda62d99194d86b957a4c522123a64",
+  "source_metric": "rmse",
+  "source_metric_value": 6.4748
+}
